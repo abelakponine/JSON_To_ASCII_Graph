@@ -81,6 +81,8 @@ ${stocks.ytitle}
 `;
     result += buildChart(items);
     result += getItemsName(items);
+    result += `\r\n\r\n                                 asset
+                                 -----`;
     return result;
 }
 
