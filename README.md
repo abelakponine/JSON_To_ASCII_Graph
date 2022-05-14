@@ -2,6 +2,8 @@
 This is a JavaScript Implementation of converting JSON object to ASCII Graph
 
 /**** Example of ASCII Graph View ****/
+
+
                 stock count
                 -----------
 count
