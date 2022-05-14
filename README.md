@@ -7,21 +7,29 @@ This is a JavaScript Implementation of converting JSON object to ASCII Graph
                 -----------
 count
 -----
-*                                                              
-*                                                              
-*                                   *                 *        
-*                                   *                 *        
-*                          *        *        *        *        
-*                 *        *        *        *        *        
-*                 *        *        *        *        *        
-*        *        *        *        *        *        *        
-*        *        *        *        *        *        *        
-*        *        *        *        *        *        *        
-*        *        *        *        *        *        *        
-*        *        *        *        *        *        *        
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                            
+$                                   $        
+$                                   $        
+$                          $        $        
+$                 $        $        $        
+$                 $        $        $        
+$        $        $        $        $        
+$        $        $        $        $        
+$        $        $        $        $        
+$        $        $        $        $        
+$        $        $        $        $        
 
 
-chairs   tables   stands   lamps   cups   lamps   cups   
+chairs   tables   stands   lamps   cups   
 
                                  asset
                                  -----
