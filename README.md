@@ -1,7 +1,7 @@
 # JSON_To_ASCII_Graph
 This is a JavaScript Implementation of converting JSON object to ASCII Graph
 
-/**** Example&#9;3 of ASCII Graph View ****/
+/**** Example&#9;&#9;3 of ASCII Graph View ****/
 
 
                 stock count
