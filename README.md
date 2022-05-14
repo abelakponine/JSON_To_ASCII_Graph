@@ -26,7 +26,7 @@ $        $        $        $        $
 $        $        $        $        $        
 $        $        $        $        $        
 $        $        $        $        $        
-$        $        $        $        $        
+$             $        $        $        $        
 
 
 chairs   tables   stands   lamps   cups   
