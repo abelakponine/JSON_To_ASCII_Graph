@@ -58,7 +58,7 @@ buildChart = (items)=>{
         i = i-1;
     }
 
-    return result.trim()+"\r\n";
+    return result+"\r\n";
 }
 
 /** This function is used for getting individual item names */
